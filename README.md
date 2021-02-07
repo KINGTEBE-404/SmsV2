@@ -1,7 +1,6 @@
 ```
 Ini adalah tools SpamSms UNLIMITED buat ngeprank 
-teman / penipu ataupun mantan. Khusu lu yang tersakiti :v
-```
+teman / penipu ataupun mantan. Khusu lu yang tersakiti :v```
 # Usage
 ```php
 $ pkg update && pkg upgrade
@@ -12,4 +11,4 @@ $ git clone https://github.com/KINGTEBE-404/SmsV2
 $ cd SmsV2
 $ python main.py
 ```
-> Get token[click here](https://cutt.ly/qkbgcCN)
+> Get token [click here](https://cutt.ly/qkbgcCN)
