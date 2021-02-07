@@ -1,6 +1,7 @@
 ```
 Ini adalah tools SpamSms UNLIMITED buat ngeprank 
-teman / penipu ataupun mantan. Khusu lu yang tersakiti :v```
+teman / penipu ataupun mantan. Khusu lu yang tersakiti :v
+```
 # Usage
 ```php
 $ pkg update && pkg upgrade
