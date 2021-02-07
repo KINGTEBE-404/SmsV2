@@ -7,7 +7,7 @@ teman / penipu ataupun mantan. Khusu lu yang tersakiti :v
 $ pkg update && pkg upgrade
 $ pkg install git
 $ pkg install python
-$ pip install -r kuntul.txt
+$ pip install requests
 $ git clone https://github.com/KINGTEBE-404/SmsV2
 $ cd SmsV2
 $ python main.py
